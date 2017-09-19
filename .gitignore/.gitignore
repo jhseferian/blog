@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Jake's blog</title>
-</head> 
-<body>
+  <title>jake's blog</title>
+  <body>JAKE'S BLOG</body>
+  <link href="style.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  <link href="style.css" type="text/css" rel="stylesheet">
+  </head> 
+   <body>hi? what's up? welcome?</body>
+  <header>
+    <img src=http://pixel.nymag.com/imgs/daily/vulture/2016/03/03/03-gwen-stefani-01.w710.h473.2x.jpg">
+  </header>"
+</html>
